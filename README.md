@@ -11,6 +11,5 @@ O jogo possui um sistema de pontuação que contabiliza 10 pontos por bolinha co
 
 Para executar o Pac-Fish, basta ter Python instalado, juntamente com a biblioteca Pygame, e rodar o arquivo principal. Os gráficos são automaticamente ajustados ao tamanho do tile, e o peixe vira corretamente para esquerda ou direita de acordo com o movimento. O jogo é livre para estudo e modificação.
 
-[![Assista ao vídeo](https://www.youtube.com/watch?v=BFtyI-5gzF0)(https://www.youtube.com/watch?v=q_4ifTnLWLw).
-
-
+[![Assista ao vídeo](https://www.youtube.com/watch?v=BFtyI-5gzF0)
+[![Assista ao vídeo](https://www.youtube.com/watch?v=q_4ifTnLWLw)
